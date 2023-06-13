@@ -1,0 +1,88 @@
+LOCUS       JS931239                 787 bp    DNA     linear   GSS 19-JUN-2012
+DEFINITION  testRW_0511144524,!@#$%^&*()
+ACCESSION   testRW_0511144524
+VERSION     JS931239.1
+DBLINK      BioSample: testRW_0511144524,!@#$%^&*()
+KEYWORDS    testRW_0511144524,!@#$%^&*()
+SOURCE      Xenopus tropicalis (tropical clawed frog)
+  ORGANISM  testRW_0511144524,!@#$%^&*()
+REFERENCE   1  (bases 1 to 787)
+  AUTHORS   testRW_0511144524,!@#$%^&*()
+  TITLE     testRW_0511144524,!@#$%^&*()
+  JOURNAL   testRW_0511144524,!@#$%^&*()
+COMMENT     Other_GSSs: ALN0AAA125YC04FM1
+            Contact: N Pollet
+            Institute of Systems and Synthetic Biology
+            CNRS
+            Genopole Campus 1, Bat. Genavenir 6 - 5 rue Henri Desbrueres,
+            F-91030 EVRY CEDEX, France
+            Tel: +33 164982748
+            Fax: +33 169474437
+            Email: Nicolas.Pollet@issb.genopole.fr
+            Seq primer: SP6
+            Class: BAC ends.
+FEATURES             Location/Qualifiers
+     source          1..787
+                     /organism="testRW_0511144524,!@#$%^&*()"
+                     /mol_type="genomic DNA"
+                     /strain="testRW_0511144524,!@#$%^&*()"
+                     /db_xref="GeneID:testRW_0511144524,!@#$%^&*()"
+                     /clone="ALN0AAA125YC04"
+                     /sex="female"
+                     /clone_lib="SAMN01055248 X. tropicalis XTHR BAC library"
+                     /dev_stage="adult"
+                     /lab_host="E.coli DH10B"
+                     /isolate="testRW_0511144524,!@#$%^&*()"
+					 
+     CDS             18..3428
+                     /gene="ATP9B"
+                     /gene_synonym="ATPASEP; ATPIIB; hMMR1; HUSSY-20; NEO1L"
+                     /EC_number="testRW_0511144524,!@#$%^&*()"
+                     /note="isoform 2 is encoded by transcript variant 2;
+                     probable phospholipid-transporting ATPase IIB; ATPase type
+                     IV, phospholipid transporting (P-type); macrophage MHC
+                     receptor 1; ATPase, class II, type 9B"
+                     /codon_start=1
+                     /product="testRW_0511144524,!@#$%^&*()"
+                     /protein_id="NP_001293014.1"
+                     /db_xref="CCDS:CCDS77202.1"
+                     /db_xref="GeneID:testRW_0511144524,!@#$%^&*()"
+                     /db_xref="HGNC:HGNC:13541"
+                     /db_xref="MIM:614446"
+                     /translation="MADQIPLYPVRSAAAAAANRKRAAYYSAAGPRPGADRHSRYQLE
+                     DESAHLDEMPLMMSEEGFENEESDYHTLPRARIMQRKRGLEWFVCDGWKFLCTSCCGW
+                     LINICRRKKELKARTVWLGCPEKCEEKHPRNSIKNQKYNVFTFIPGVLYEQFKFFLNL
+                     YFLVISCSQFVPALKIGYLYTYWAPLGFVLAVTMTREAIDEFRRFQRDKEVNSQLYSK
+                     LTVRGKVQVKSSDIQVGDLIIVEKNQRIPSDMVFLRTSEKAGSCFIRTDQLDGETDWK
+                     LKVAVSCTQQLPALGDLFSISAYVYAQKPQMDIHSFEGTFTREDSDPPIHESLSIENT
+                     LWASTIVASGTVIGVVIYTGKETRSVMNTSNPKNKVGLLDLELNRLTKALFLALVALS
+                     IVMVTLQGFVGPWYRNLFRFLLLFSYIIPISLRVNLDMGKAVYGWMMMKDENIPGTVV
+                     RTSTIPEELGRLVYLLTDKTGTLTQNEMIFKRLHLGTVSYGADTMDEIQSHVRDSYSQ
+                     MQSQAGGNNTGSTPLRKAQSSAPKVRKSVSSRIHEAVKAIVLCHNVTPVYESRAGVTE
+                     ETEFAEADQDFSDENRTYQASSPDEVALVQWTESVGLTLVSRDLTSMQLKTPSGQVLS
+                     FCILQLFPFTSESKRMGVIVRDESTAEITFYMKGADVAMSPIVQYNDWLEEECGNMAR
+                     EGLRTLVVAKKALTEEQYQDFESRYTQAKLSMHDRSLKVAAVVESLEREMELLCLTGV
+                     EDQLQADVRPTLEMLRNAGIKIWMLTGDKLETATCIAKSSHLVSRTQDIHIFRQVTSR
+                     GEAHLELNAFRRKHDCALVISGDSLEVCLKYYEHEFVELACQCPAVVCCRCSPTQKAR
+                     IVTLLQQHTGRRTCAIGDGGNDVSMIQAADCGIGIEGKEGKQASLAADFSITQFRHIG
+                     RLLMVHGRNSYKRSAALGQFVMHRGLIISTMQAVFSSVFYFASVPLYQGFLMVGYATI
+                     YTMFPVFSLVLDQDVKPEMAMLYPELYKDLTKGRSLSFKTFLIWVLISIYQGGILMYG
+                     ALVLFESEFVHVVAISFTALILTELLMVALTVRTWHWLMVVAEFLSLGCYVSSLAFLN
+                     EYFDVAFITTVTFLWKVSAITVVSCLPLYVLKYLRRKLSPPSYCKLAS"
+					 
+ORIGIN      
+        1 agctttatct aaatacagcc ataagcactt acagtaatga tacactgttt cctctatcaa
+       61 aagaaacaca ggatttcttg tctcttcttt tttaaacagg atgttccagt gtctgacttc
+      121 ctctctcaga aacatcctta attccctggg ccacagtctg tgcagttctc tcccctctcc
+      181 tgctcccccc tcctaccaga atgctaagaa ctccctcccc cctcccttag gaatgtgtga
+      241 tctcagctat aacagctaga gctgcaggaa ggaagacact taaaatggca gctgctatct
+      301 taagcaaatg gagtaagctt ctaaagctgt ttactcaggt atattaatgg tttctgcaga
+      361 ataaatatat tgttctaggt ggcactaatg tggcaaatct attggcagta aaatgccaaa
+      421 atgactttcc ttctccttta agtaatcatt ttgggggtat agtttttctt ttaagggctc
+      481 cacgagaaag ccaaacccat atcagcgctt cctgttagtt caggcttaag tactctactc
+      541 catacattta ataatagaca tttactatag gcagtaaggg ctgttggtag ctagcatagg
+      601 gataaggccc tttgactcca gtgcattagg cataagaaac acaagaaaaa caggctaagt
+      661 ccaatgcatt taataaaact tcactcatga ctagttatta tcattcatca aattcatgga
+      721 actctgggac actaccctcc cataaaatga gcacattatt gatatattgt aggcacactt
+      781 tccttta
+//
