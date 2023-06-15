@@ -1,15 +1,15 @@
 LOCUS       JS931239                 787 bp    DNA     linear   GSS 19-JUN-2012
-DEFINITION  testRW_0511144524,!@#$%^&*()
-ACCESSION   testRW_0511144524
+DEFINITION  testRW_0615140402,!@#$%^&*()
+ACCESSION   testRW_0615140402
 VERSION     JS931239.1
-DBLINK      BioSample: testRW_0511144524,!@#$%^&*()
-KEYWORDS    testRW_0511144524,!@#$%^&*()
+DBLINK      BioSample: testRW_0615140402,!@#$%^&*()
+KEYWORDS    testRW_0615140402,!@#$%^&*()
 SOURCE      Xenopus tropicalis (tropical clawed frog)
-  ORGANISM  testRW_0511144524,!@#$%^&*()
+  ORGANISM  testRW_0615140402,!@#$%^&*()
 REFERENCE   1  (bases 1 to 787)
-  AUTHORS   testRW_0511144524,!@#$%^&*()
-  TITLE     testRW_0511144524,!@#$%^&*()
-  JOURNAL   testRW_0511144524,!@#$%^&*()
+  AUTHORS   testRW_0615140402,!@#$%^&*()
+  TITLE     testRW_0615140402,!@#$%^&*()
+  JOURNAL   testRW_0615140402,!@#$%^&*()
 COMMENT     Other_GSSs: ALN0AAA125YC04FM1
             Contact: N Pollet
             Institute of Systems and Synthetic Biology
@@ -23,30 +23,30 @@ COMMENT     Other_GSSs: ALN0AAA125YC04FM1
             Class: BAC ends.
 FEATURES             Location/Qualifiers
      source          1..787
-                     /organism="testRW_0511144524,!@#$%^&*()"
+                     /organism="testRW_0615140402,!@#$%^&*()"
                      /mol_type="genomic DNA"
-                     /strain="testRW_0511144524,!@#$%^&*()"
-                     /db_xref="GeneID:testRW_0511144524,!@#$%^&*()"
+                     /strain="testRW_0615140402,!@#$%^&*()"
+                     /db_xref="GeneID:testRW_0615140402,!@#$%^&*()"
                      /clone="ALN0AAA125YC04"
                      /sex="female"
                      /clone_lib="SAMN01055248 X. tropicalis XTHR BAC library"
                      /dev_stage="adult"
                      /lab_host="E.coli DH10B"
-                     /isolate="testRW_0511144524,!@#$%^&*()"
+                     /isolate="testRW_0615140402,!@#$%^&*()"
 					 
      CDS             18..3428
                      /gene="ATP9B"
                      /gene_synonym="ATPASEP; ATPIIB; hMMR1; HUSSY-20; NEO1L"
-                     /EC_number="testRW_0511144524,!@#$%^&*()"
+                     /EC_number="testRW_0615140402,!@#$%^&*()"
                      /note="isoform 2 is encoded by transcript variant 2;
                      probable phospholipid-transporting ATPase IIB; ATPase type
                      IV, phospholipid transporting (P-type); macrophage MHC
                      receptor 1; ATPase, class II, type 9B"
                      /codon_start=1
-                     /product="testRW_0511144524,!@#$%^&*()"
+                     /product="testRW_0615140402,!@#$%^&*()"
                      /protein_id="NP_001293014.1"
                      /db_xref="CCDS:CCDS77202.1"
-                     /db_xref="GeneID:testRW_0511144524,!@#$%^&*()"
+                     /db_xref="GeneID:testRW_0615140402,!@#$%^&*()"
                      /db_xref="HGNC:HGNC:13541"
                      /db_xref="MIM:614446"
                      /translation="MADQIPLYPVRSAAAAAANRKRAAYYSAAGPRPGADRHSRYQLE
